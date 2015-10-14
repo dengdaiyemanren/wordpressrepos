@@ -1,0 +1,110 @@
+.clear {
+  clear:both;
+}
+.ashu_metabox {
+  border-bottom:1px solid #ccc;
+  margin-bottom:10px;
+  padding:10px 0;
+}
+#poststuff .ashu_metabox h3 {
+  border:none;
+}
+.ashu_metabox_upload {
+  position:relative;
+}
+.ashu_img_preview{
+  border:1px solid #DFDFDF;
+  position:absolute;
+  height:100px;
+  width:100px;
+  top:5px;
+  right:5px;
+  overflow: hidden;
+  text-align: center;
+  z-index: 1;
+}
+input[type=radio].ashu_radio,
+input[type=checkbox].ashu_checkbox {
+  width:16px;
+  height:16px;
+}
+#top_image .ashu_img_preview {
+	position: relative;
+	width:100%;
+	height:auto;
+	top:0;
+	right:0;
+}
+#top_image .ashu_img_preview img {
+	width:100%;
+	height:auto;
+}
+.meta_box_side .ashu_img_preview{
+height:32px;
+width:32px;
+top:5px;
+right:5px;
+}
+
+.ashu_img_preview img{
+height:100px;
+}
+
+.meta_box_side .ashu_img_preview img{
+height:32px;
+}
+
+.meta_box_media{
+height:112px;
+}
+
+.k_hijack{
+position: relative;
+z-index: 2;
+}
+
+.kriesi_meta_box_alt .ashuwp_url_input{
+margin-bottom:15px;
+}
+
+.meta_box_media p{
+width:78%;
+}
+
+.kriesi_textarea{
+width:98%;
+height:4em;
+}
+
+
+/*Special styles*/
+
+#testimonials .kriesi_preview_pic img{
+height:60px;
+}
+
+#testimonials .kriesi_preview_pic{
+width:60px;
+height:60px;
+}
+#product_images_container .product_images li {
+	display:block;
+	float:left;
+	width:220px;
+	margin-right:10px;
+}
+#product_images_container .product_images li img {
+	max-width:220px;
+	height:auto;
+}
+#mokino_images_container .mokino_images li {
+	display:block;
+	float:left;
+	width:360px;
+	margin-right:10px;
+}
+#mokino_images_container .mokino_images li img {
+	width:100%;
+	max-width:360px;
+	height:auto;
+}

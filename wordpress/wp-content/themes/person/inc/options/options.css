@@ -1,0 +1,89 @@
+.rm_wrap, .rm_wrap h2 {
+	width: 620px;
+	font-family: 'Microsoft YaHei', Arial, Lucida Grande, Tahoma, sans-serif;
+	line-height: 20px;
+}
+.rm_wrap a {
+	text-decoration: none;
+}
+.rm_section {
+	background: #fff;
+	border: 1px solid #ccc;
+	margin: 0 0 8px 0;
+	border-radius: 3px;
+}
+.rm_title h3 {
+	float: left;
+	cursor: pointer;
+	font-size: 14px;
+	width: 80%;
+	margin: 0;
+	padding: 14px;
+}
+.clearfix{ clear:both; }
+.rm_title span.submit {
+	float: right;
+	width: 70px;
+	height: 25px;
+	margin: 11px 15px 0 0;
+	padding: 0;
+	display: block;
+}
+.rm_table th,.rm_table td {
+	border: 1px solid #ccc;
+	padding: 10px;
+	text-align: center;
+}
+.rm_table th,.rm_table td.feature {
+	border-color: #888;
+}
+.rm_opts label {
+	float: left;
+	font-size: 14px;
+	display: block;	
+	margin: 0 15px 0 0;
+}
+.rm_input {
+	padding: 10px;
+}
+.part {
+	border-top: 1px dashed #ddd;
+	margin: 8px 0 0 0;
+}
+.rm_opts small {
+	font-size: 14px;
+	color: #666;
+	padding-top: 4px;
+	display: block;
+}
+.rm_input textarea {
+	width: 90%;
+	height: 100px;
+	padding: 4px;
+	color: #333;
+	border: 1px solid #ccc;
+}
+
+
+
+.rm_wrap .switch {
+	cursor:pointer;
+}
+.odiv {
+	background: #fff;
+	top:0px;
+	width: 598px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+.catid {
+	margin: 0;
+}
+.catid li {
+	float: left;
+	width: 30%;
+	line-height: 24px; 
+	list-style-type: square;
+	margin: 0 0 0 15px;
+}

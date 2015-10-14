@@ -1,0 +1,5 @@
+<?php
+// ÌØÉ«Í¼Ïñ
+add_theme_support( 'post-thumbnails' );
+add_image_size( 'thumbnail', 280, 200, true );
+?>

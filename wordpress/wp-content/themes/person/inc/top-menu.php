@@ -1,0 +1,1 @@
+<nav class="top-nav"><ul id="menu-header"><li class="current-menu-item"><a href="<?php echo home_url(); ?>/wp-admin/nav-menus.php">点此设置顶部菜单</a></li></ul></nav>
