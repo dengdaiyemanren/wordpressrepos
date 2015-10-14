@@ -1,0 +1,2 @@
+﻿1.在这个插件中，相比标准的Ueditor，添加了json editor， onekey wordimage upload等功能。
+2.If you need English version, please send me email: rib.liu@qq.com
