@@ -1,0 +1,1 @@
+<?php get_header(); ?><div class="f404">	<img src="<?php bloginfo('template_directory'); ?>/images/404.png">	<h1>404 . Not Found</h1>	<h2>沒有找到你要的内容！</h2>	<p><a class="back_home" href="<?php echo esc_url( home_url( '/' ) ); ?>">返回 <?php bloginfo( 'name' ); ?> 首页</a></p></div><?php get_footer(); ?>
